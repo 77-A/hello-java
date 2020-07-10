@@ -36,13 +36,3 @@
     </plugins>
   </build>
 </project>
-<repository>
-  <id>hello-java</id>
-  <url>https://pkgs.dev.azure.com/srknthcloud33/f605cffd-118a-4525-88ad-b16d7c416250/_packaging/hello-java/maven/v1</url>
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
-</repository>
